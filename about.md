@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a Software Engineer based in Jakarta, Indonesia. I make mobile application especially android apps. I'm available for hire on a freelance project. In my spare time, I work on some stuffs in Gooogle Community, they are Google Top Contributor and Local Guides.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nabillasabbaha@gmail.com](mailto:nabillasabbaha@gmail.com)
